@@ -1,22 +1,82 @@
-<img alt="banner" style="width:100vw" src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966">
+<h1 align="center">✨ Hi there I'm Nqh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 
-<h1 align="center">Hi 👋, I'm Hưng</h1>
-<h3 align="center">I am a Student</h3>
+<body>
+<br>
+<div align="center">
+<img src="https://media.tenor.com/rH0jFMF5z3AAAAAC/kirito-sao.gif" width="300px">
+</div>
+<br>
 
-### 🛠 My knowledge
+<h2 align="center"> 💬 About me 👁️‍🗨️ </h2>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+```zsh
+> nqhxyz
+```
 
-### 📚 Github Status
+<img align="left" src="https://raw.githubusercontent.com/keta1/keta1/main/pic/00.webp" width="120px"/> 
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hunghecker&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api?username=hunghecker&show_icons=true&theme=react&border_color=61dafb&hide_border=true" height="165">
+```csharp
+My Profile
+-------------------------------
+Name: Nguyen Quoc Hung.
+WhoamI: Primary School Student 🏫.
+Gender: Male.
+Location: ThaiNguyen, VietNam.
+Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
+Hobbies: Gaming, Coding while I am listening music 🎶.
+Languages: Bash, NodeJS, Python
+Learning: Computer Science.
+Facebook: @humgnongu99.
+```
+<br>
+     
+<div>
+<h2 align="center"> 🔎 Knowledge 📖 </h2>
+</div>
+<div align = "center">
+<p align = "justify">I worked using Python for AI and CSharp to code my Desktop App. A year ago, I learned Kotlin and Java, also some reverse engineering to develope ReVanced Extended. Nowdays, I focus on Computer Science.
+So I do my best in every specialtation area. My programming languages are NodeJS, CSharp, C++, Python, Shell Script, Powershell Script, Kotlin and Java. Check my repositories and give your opinion I'll do my best and be better every day.<br></p>
+<p align = "center">
+     <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=androidstudio,bash,linux,git,github,java,kotlin,py,cs,cpp,js,css,html,githubactions&perline=7"alt="My Skills"/> 
+    </a>
 </p>
+</div>
+<br>
 
-### 🌐️ Reach me at
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hunghecker)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/hungnongu99)
+<h2 align = "center"> 📉 GitHub Stats 🌟 </h2>
+<div> 
+<p align = "center">
+  <a href="https://github.com/YT-Advanced"><img alt="YT-Advanced's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=YT-Advanced&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&line_height=28&rank_icon=github" height="192px"/></a>
+  <a href="https://github.com/YT-Advanced"><img alt="YT-Advanced's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=YT-Advanced&langs_count=8&layout=compact&theme=material-palenight&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/YT-Advanced"><img alt="YT-Advanced's Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YT-Advanced&theme=dracula&bg_color=1F222E&title_color=F85D7F&point=F8D866&line=F85D7F&color=a6accd&hide_border=true&radius=4.5" /></a>
+</p>
+</div>
+<br>
+
+<h2 align="center"> My contributions game 🐍🎮</h2>
+
+![](https://raw.githubusercontent.com/YT-Advanced/YT-Advanced/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/YT-Advanced/YT-Advanced/output/github-contribution-grid-snake.svggh-light-mode-only)
+<br>
+
+
+</div>  
+<br>
+<div>
+<h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
+<div>
+<img src="https://raw.githubusercontent.com/huy232/huy232/main/image/2.gif" align="center" />
+  </div>
+<br> 
+</div>  
+
+
+<br>
+<div>
+<h2 align="center">View counter 👀</h2>
+<div align="center">
+<img src="https://moe-counter.glitch.me/get/@YT-Advanced?theme=gelbooru" />
+  </div>
+<br>
+
